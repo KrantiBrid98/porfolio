@@ -1,0 +1,14 @@
+.degree-name {
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    font-family: system-ui;
+}
+
+.collage-name {
+    padding-top: 20px;
+    margin: 0px;
+    color: #e7e8e9;
+    font-family: system-ui;
+    font-size: 15px;
+}

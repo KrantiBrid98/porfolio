@@ -1,0 +1,89 @@
+{
+    "about": {
+        "description":"I'm a Front-End Developer in Mumbai, India. I have serious passion for building web applications.",
+        "skillset": [
+            "HTML5", "CSS3", "Javascript", "ES6", "ReactJs", "Redux", "JQuery", "PIXIjs", "Lodash", "SVN", "Git", "MySQL", "Express", "NestJs", "NodeJS", "Graphql", "JIRA", "Confluence", "Windows", "MacOS", "Linux-ubuntu"
+        ]
+    },
+    "experience": [
+        {
+            "companyName":"Mitr Learning and Media Pvt. Ltd.",
+            "timespan":"Software Engineer Band I (Jan 2018 - May 2020)",
+            "skills": [
+                "Developed robust, clean and maintainable code in challenging time constraints also collaborated with QA and peer developers to ensure efficient bug free delivery to clients."
+            ]
+        },
+        {
+            "companyName":"Synergy Technology Services Pvt Ltd",
+            "timespan":"Software Engineer (May 2020 - present)",
+            "skills": [
+                
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree":"B.E in Computer Engineering",
+            "timespan":"May 2013 - May 2017",
+            "institution": "Datta Meghe College of Engineering,  Mumbai University",
+            "percentage": "CGPA 7.49"
+        },
+        {
+            "degree":"HSC",
+            "timespan":"2011 - 2013",
+            "institution": "Wamanrao muranjan Jr. college, Mumbai University",
+            "percentage": "passed with 73.3%"
+        },
+        {
+            "degree":"SSC",
+            "institution": "Holy Angels’ High School, Maharashtra State Board.",
+            "percentage": "passed with 91.45%"
+        }
+    ],
+    "projects": [
+        {   
+            "tag": "react",
+            "name":"Curriculum Associates (iFabric)",
+            "skills":"Reactjs, ES6 Javascript, Lodash, Automation frameworks",
+            "description":"Developing lessons for E-learning and solved renderer and framework related issues along with using Nighwatch with Browserstack for automation testing.  Practicing Agile methodology. Github is used  for version control and management."
+        },
+        {
+            "tag": "js",
+            "name":"Klett",
+            "skills":"JavaScript, NodeJS, CSS",
+            "description":"Created high level E-learning activity screens for students in canvas using JS which included various mathematical modules and complex calculations on the basis of which the activity was controlled."
+        },
+        {
+            "tag": "js",
+            "name":"Cenveo Games",
+            "skills":"PIXIJs, NodeJS",
+            "description":"Created games using PIXIJs which provided various functionalities like undo, redo, delete etc to the user."
+        },
+        {
+            "tag": "react",
+            "name":"Quiz Adda",
+            "skills":"Reactjs, Reactstrap",
+            "description":" Creating an internal game platform where multiple-choice quizzes or polls will be presented allowing user to access it via a web browser and submit their answer."
+        },
+        {
+            "tag": "js",
+            "name":"Curriculum Associates (iReady)",
+            "skills":"JavaScript, NodeJS, CSS",
+            "description":" Converted different activities from Flash to HTML5 i.e. in canvas.. Developed interactive activities like multiple choice questions, drag and drop activities  along with animations and logical part which was done in JavaScript. SVN was used for version control and management."
+        },
+        {
+            "tag": "node",
+            "name":"nestJs-sql-typeorm",
+            "skills":"Node, NestJs, mysql, typeORM",
+            "description":"CRUD application using nestjs, mysql and typeOrm. This application uses nestjs as its base. Data and information has been stored using mySql and typeorm. DatabaseModule based on the TypeORM package is created from scratch.",
+            "link":"https://github.com/KrantiBrid98/nestJs-sql-typeorm"
+        },
+        {
+            "tag": "react",
+            "name":"Marvel",
+            "skills":"React, NodeJs, Express, SQL, oAuth",
+            "description":"Lets you browser through your favorite Marvel super heroes. This is a self study project to implement concepts of react like React-router, refs, React portals, middleware, fetching data through API and populating the fetched data through Route Links.",
+            "link": "https://github.com/KrantiBrid98/Marvel"
+        }
+    ]
+}

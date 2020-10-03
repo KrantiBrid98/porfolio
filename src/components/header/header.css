@@ -1,0 +1,36 @@
+.header-wrapper {
+    height: 50px;
+    width: 100%;
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: #1b242f;
+}
+
+nav ul li a:hover {
+    color: #d61c69;
+}
+
+nav ul {
+    position: fixed;
+    display: flex;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    background-color: #1b242f;
+    height: 50px;
+    border-bottom: 3px solid #04c2c9;
+    z-index: 100;
+}
+
+nav ul li a{
+    margin: 2px;
+    color: #e7e8e9;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 19px;
+    padding-top: 5px;
+    font-family: system-ui;
+    cursor: pointer;        
+    transition: 0.3s;
+}
