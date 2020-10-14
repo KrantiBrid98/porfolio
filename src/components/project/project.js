@@ -48,7 +48,7 @@ class Project extends React.Component {
                             </div>
                             <div className="flip-card-back content">
                                 <div className="description">{project.description}</div>
-                               {project.link && <a className="github" target="_blank"  href={project.link}></a>}
+                               {project.link && <a className="github" target="_blank" rel="noopener" href={project.link}></a>}
                             </div>
                         </div>
                     </div>
@@ -63,7 +63,7 @@ class Project extends React.Component {
                             </div>
                             <div className="flip-card-back content">
                                 <div className="description">{project.description}</div>
-                                { project.link && <a className="github" target="_blank"  href={project.link}></a>}
+                                { project.link && <a className="github" target="_blank" rel="noopener" href={project.link}></a>}
                             </div>
                         </div>
                     </div>
