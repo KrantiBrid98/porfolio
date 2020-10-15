@@ -22,7 +22,7 @@ const Footer = () => {
                 <img src={`${blogspot}`} alt="blogspot" style={{ height: "70%" }} />
             </a>
         </div>
-        <div className="email">Made by Kranti Brid ✨</div>
+        <div className="email">Made by Kranti Brid using <span role="img" aria-label="sparle react">⚛️✨</span></div>
     </div>
 }
 

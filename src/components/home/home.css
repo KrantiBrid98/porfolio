@@ -9,7 +9,7 @@
     color: #ffffff;
     padding: 182px;
     text-align: center;
-    font-family: monospace;    
+    font-family: monospace;
     border-bottom: 3px solid #04c2c9;
 }
 
@@ -24,14 +24,31 @@ button {
     height: 50px;
     width: 170px;
     margin: 33px;
-    cursor: pointer;    
+    cursor: pointer;
     transition: 0.3s;
     /* transition: transform .8s ease-in-out; */
 }
 
 button:hover {
-    background-color:#04c2c9;
+    background-color: #04c2c9;
     border: 2px solid #04c2c9;
     /* transform: rotate(360deg); */
 }
 
+@media only screen and (max-device-width: 480px) {
+    .home-content {
+        height: 100vh;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .home-script {
+        font-size: 16pt;
+        line-height: 20pt;
+        margin: 0 0 20px 0;
+        pointer-events: none;
+        padding: 0px;
+    }
+}

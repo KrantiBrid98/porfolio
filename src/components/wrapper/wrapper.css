@@ -98,4 +98,7 @@ p {
     .block-content {
         width: 100%;
     }
+    h3 {
+        font-size: 35px
+    }
   }
