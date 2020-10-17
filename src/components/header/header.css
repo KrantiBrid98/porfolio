@@ -10,6 +10,13 @@ nav ul li a:hover {
     color: #d61c69;
 }
 
+.hamburger {
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
+}
+
 nav ul {
     position: fixed;
     display: flex;
@@ -21,6 +28,10 @@ nav ul {
     height: 50px;
     border-bottom: 3px solid #04c2c9;
     z-index: 100;
+}
+
+.hamburger{
+    display: none;
 }
 
 nav ul li a {
@@ -41,4 +52,26 @@ nav ul li a {
         padding-left: 5px;
         font-size: 13px;
     }
+
+    .hamburger{
+        display: block;
+    }
+
+    .header-wrapper {
+        display: none;
+    }
+
+    nav ul {
+        display: none;
+    }
+
+    .hamburger:hover ~ nav ul {
+        display: block;
+        height: auto;
+    }
+    
+    .hamburger:hover ~ .header-wrapper {
+        display: block;
+    }
+    
 }
