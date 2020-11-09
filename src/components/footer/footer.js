@@ -15,7 +15,7 @@ const Footer = () => {
             <div className="socail-media">
                 <img src={`${github}`} alt="github" style={{ height: "50%" }} />
             </div>
-            <a href="https://medium.com/@krantibrid" target="_blank" rel="noopener" className="socail-media">
+            <a href="https://krantibrid.medium.com/" target="_blank" rel="noopener" className="socail-media">
                 <img src={`${medium}`} alt="medium" style={{ height: "50%" }} />
             </a>
             <a href="https://krantibrid.blogspot.com/" target="_blank" rel="noopener" className="socail-media">
