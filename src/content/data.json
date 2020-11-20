@@ -66,12 +66,6 @@
             "description":"Created games using PIXIJs which provided various functionalities like undo, redo, delete etc to the user."
         },
         {
-            "tag": "react",
-            "name":"Quiz Adda",
-            "skills":"Reactjs, Reactstrap",
-            "description":" Creating an internal game platform where multiple-choice quizzes or polls will be presented allowing user to access it via a web browser and submit their answer."
-        },
-        {
             "tag": "js",
             "name":"Curriculum Associates (iReady)",
             "skills":"JavaScript, NodeJS, CSS",
