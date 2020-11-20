@@ -36,9 +36,16 @@ nav ul li a {
 }
 
 @media only screen and (max-device-width: 480px) {
-    nav ul li a {
-        padding-right: 5px;
-        padding-left: 5px;
-        font-size: 13px;
+    nav ul {
+       justify-content: space-evenly;
+    }
+
+    nav ul li a{
+        margin: 0px;
+        padding: 0px;
+        color: #e7e8e9;
+        font-size: 14px;
+        cursor: pointer;
+        transition: 0.3s;
     }
 }
