@@ -36,7 +36,7 @@ nav ul li a {
 }
 
 @media only screen and (max-device-width: 480px) {
-    nav ul {
+/*     nav ul {
        justify-content: space-evenly;
     }
 
@@ -47,5 +47,8 @@ nav ul li a {
         font-size: 14px;
         cursor: pointer;
         transition: 0.3s;
+    } */
+    .header-wrapper {
+        display: none;
     }
 }
