@@ -43,6 +43,12 @@
     "projects": [
         {   
             "tag": "react",
+            "name":"The Orchard",
+            "skills":"Reactjs, ES6 Javascript, TypeScript, Graphql, Jest, RTL, Cypress",
+            "description":"Building react components, improving product quality as per client requirements along with using Jest and React Testing Library for unit testing. Practiced Agile methodology with direct interaction with clients."
+        },
+        {   
+            "tag": "react",
             "name":"Curriculum Associates (iFabric)",
             "skills":"Reactjs, ES6 Javascript, Lodash, Automation frameworks",
             "description":"Developing lessons for E-learning and solved renderer and framework related issues along with using Nighwatch with Browserstack for automation testing.  Practicing Agile methodology. Github is used  for version control and management."
