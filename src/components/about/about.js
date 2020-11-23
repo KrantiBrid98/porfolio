@@ -9,7 +9,7 @@ const About = () => {
         <p>
           I am a tech enthusiast and a <b>software developer</b> by profession.
           I love to create
-          <b>dynamic, user-friendly and maintainable applications </b> that
+          <b> dynamic, user-friendly and maintainable applications </b> that
           makes user`s lives easier.
         </p>
         <p>
