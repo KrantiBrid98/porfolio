@@ -14,11 +14,11 @@ const About = () => {
         </p>
         <p>
           I am a FullStack developer with
-          <b>
-            ~3 yrs of extensive experience in Javascript and 2+ yrs of
+          <b> 
+             ~3 yrs of extensive experience in Javascript and 2+ yrs of
             experience in React
           </b>
-          and sound knowledge of <b>nodeJs, expressJs, nestJs and much more</b>.
+           and sound knowledge of <b>nodeJs, expressJs, nestJs and much more</b>.
           I have a good exposure to the <b>e-learning domain</b> as well.
         </p>
         <p>
