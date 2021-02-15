@@ -14,12 +14,19 @@ img {
     border-radius: 50%;
   }
 
-.user-description {
+.user-description-false {
     padding: 2px;
     font-family: system-ui;
     font-weight: 600;
     color: #443f3f;
+}
 
+/* true */
+.user-description {
+    padding: 2px;
+    font-family: system-ui;
+    font-weight: 600;
+    color: #b3b6bb;
 }
 
 .tags {
