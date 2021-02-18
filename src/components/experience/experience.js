@@ -12,10 +12,10 @@ const Experience = () => {
         {
             data.experience.map(expData => <div className={`block-content block-color-darkMode_${context}`}>
                 <h5 className="company-name">{expData.companyName}</h5>
-                <span className="timespan sub-heading-color">{expData.timespan}</span>
+                <span className={`timespan sub-heading-color-darkMode_${context}`}>{expData.timespan}</span>
                 <ul>
                     {
-                        expData.skills.map(skill => <li className="sub-heading-color">{skill}</li>)
+                        expData.skills.map(skill => <li className={`sub-heading-color-darkMode_${context}`}>{skill}</li>)
 
                     }
                 </ul>

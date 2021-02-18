@@ -5,3 +5,12 @@
     font-size: 20px;
     margin: 15px;
 }
+
+
+button.darkMode_true{
+    color: #fff;
+}
+
+button.darkMode_false {
+    color: #1b242f;
+}

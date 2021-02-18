@@ -10,14 +10,14 @@
             "companyName":"Mitr Learning and Media Pvt. Ltd.",
             "timespan":"Software Engineer Band I (Jan 2018 - May 2020)",
             "skills": [
-                "Developed robust, clean and maintainable code in challenging time constraints also collaborated with QA and peer developers to ensure efficient bug free delivery to clients."
+                "Developed gizmos and applications for students (E-Learning domain) along with tests to ensure its maintainability.", "Worked with a US based client team with one to one interaction following agile methodology."
             ]
         },
         {
             "companyName":"Synergy Technology Services Pvt Ltd",
             "timespan":"Software Engineer (May 2020 - present)",
             "skills": [
-                
+                "Developed robust, clean and maintainable code in challenging time constraints also collaborated with QA and peer developers to ensure efficient bug free delivery to clients."
             ]
         }
     ],
@@ -49,9 +49,15 @@
         },
         {   
             "tag": "react",
+            "name":"DXC MKTG Innovate",
+            "skills":"Reactjs, ES6 Javascript, Lodash, TypeScript, CSS",
+            "description":"Building entire react components from scratch which provided the user a detailed outlook and statistics about sales, production, events etc of all the famous liquor brands available in the market."
+        },
+        {   
+            "tag": "react",
             "name":"Curriculum Associates (iFabric)",
             "skills":"Reactjs, ES6 Javascript, Lodash, Automation frameworks",
-            "description":"Developing lessons for E-learning and solved renderer and framework related issues along with using Nighwatch with Browserstack for automation testing.  Practicing Agile methodology. Github is used  for version control and management."
+            "description":"Developing lessons for E-learning and solved renderer and framework related issues along with using Nighwatch with Browserstack for automation testing. Practicing Agile methodology. Github is used  for version control and management."
         },
         {
             "tag": "js",
@@ -81,7 +87,7 @@
         {
             "tag": "react",
             "name":"Marvel",
-            "skills":"React, NodeJs, Express, SQL, oAuth",
+            "skills":"React, React Router, API, NodeJs, Express, SQL, Google oAuth",
             "description":"Lets you browser through your favorite Marvel super heroes. This is a self study project to implement concepts of react like React-router, refs, React portals, middleware, fetching data through API and populating the fetched data through Route Links.",
             "link": "https://github.com/KrantiBrid98/Marvel"
         }

@@ -12,9 +12,9 @@ const Footer = () => {
             <a href="https://www.linkedin.com/in/kranti-brid-2b1585102/" target="_blank" rel="noopener" className="socail-media">
                 <img src={`${linkedin}`} alt="linkind" style={{ height: "50%" }} />
             </a>
-            <div className="socail-media">
+            <a href="https://github.com/KrantiBrid98/" target="_blank" rel="noopener" className="socail-media">
                 <img src={`${github}`} alt="github" style={{ height: "50%" }} />
-            </div>
+            </a>
             <a href="https://krantibrid.medium.com/" target="_blank" rel="noopener" className="socail-media">
                 <img src={`${medium}`} alt="medium" style={{ height: "50%" }} />
             </a>

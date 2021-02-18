@@ -1,11 +1,19 @@
 p {
-        color: #eae7e3;
         font-family: system-ui;
         text-align: center;
 }
 
-b {
+
+p.darkMode_false{
+    color: #434444;
+}
+
+b.darkMode_true{
     color: white;
+}
+
+b.darkMode_false{
+    color: #383c3c;
 }
 
 .lin {

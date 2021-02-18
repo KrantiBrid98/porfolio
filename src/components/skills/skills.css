@@ -24,6 +24,10 @@ img {
     color: #b3b6bb;
 }
 
+.darkMode_false {
+    color: #434444;
+}
+
 .tags {
     height: fit-content;
     background-color: #04c2c9;

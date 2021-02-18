@@ -19,8 +19,16 @@ h3.darkMode_true {
     color: #b3b6bb;
 }
 
-.sub-heading-color {
+h3.darkMode_false{
+    color: #121621;
+}
+
+.sub-heading-color-darkMode_true {
     color: #929495 !important;
+}
+
+.sub-heading-color-darkMode_false{
+    color: #434444;
 }
 
 h6 {
@@ -35,19 +43,24 @@ h6.darkMode_true {
     color: #57585a;
 }
 
+h6.darkMode_false {
+    color: #434444;
+}
+
 a {
     text-decoration: none;
     font-family: system-ui;
     font-size: 15px;
 }
 
-a.darkMode_true {
+a.darkMode_false {
     color: #1b242f
 }
 
 a.darkMode_true {
     color: #ffffff;
 }
+
 p {
     color: #04c2c9;
     font-family: system-ui;
@@ -66,7 +79,7 @@ p {
 }
 
 .block-wrapper2-color-darkMode_false {
-    background-color: #f5f5f5;
+    background-color: white;
 }
 
  /* true */
@@ -76,8 +89,8 @@ p {
 
 
 .block-color-darkMode_false {
-    color: #e7e8e9;
-    background-color: #45474a;
+    color: #121621;
+    background-color: #cad0d9;
 }
 
 .block-color-darkMode_true {
