@@ -1,11 +1,18 @@
-.filler {
+.filler-darkMode_true {
     width: 100%;
     /* height: 100%; */
     background-color: #252934;
     /* background-image: url("../../assets/filler.jpg"); */
 }
 
-.home-content {
+.filler-darkMode_false {
+    width: 100%;
+    /* height: 100%; */
+    background-color: #dbdde4;
+    /* background-image: url("../../assets/filler.jpg"); */
+}
+
+.home-content-darkMode_true {
     color: #ffffff;
     padding: 182px;
     text-align: center;
@@ -13,13 +20,21 @@
     border-bottom: 3px solid #04c2c9;
 }
 
+.home-content-darkMode_false {
+    color: #1b242f;
+    padding: 182px;
+    text-align: center;
+    font-family: monospace;
+    border-bottom: 3px solid #04c2c9;
+}
+
+
 .home-script {
     font-size: 40px;
     padding: 20px;
 }
 
 button {
-    border: 2px solid #fff;
     background-color: transparent;
     height: 50px;
     width: 170px;
@@ -27,6 +42,15 @@ button {
     cursor: pointer;
     transition: 0.3s;
     /* transition: transform .8s ease-in-out; */
+}
+
+
+button.darkMode_true{
+    border: 2px solid #fff;
+}
+
+button.darkMode_false {
+    border: 2px solid #1b242f;
 }
 
 button:hover {

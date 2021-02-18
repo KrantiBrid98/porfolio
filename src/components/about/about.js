@@ -1,11 +1,13 @@
 import React from 'react';
 import './about.css';
+import { ThemeContext } from '../context';
 
 const About = () => {
+  const [context] = React.useContext(ThemeContext);
   return (
-    <div class="block-wrapper" id="about-section">
-      <h3>About</h3>
-      <div style={{width: `80%`}} class="block-content block-color">
+    <div className={`block-wrapper block-wrapper1-color-darkMode_${context}`} id="about-section">
+      <h3 className={`darkMode_${context}`}>About</h3>
+      <div style={{width: `80%`}}  className={`block-content block-color-darkMode_${context}`}>
         <p>
           I am a tech enthusiast and a <b>software developer</b> by profession.
           I love to create

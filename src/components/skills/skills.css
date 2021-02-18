@@ -1,0 +1,45 @@
+.skills-column {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.row {
+    width: 50%;
+    height: fit-content;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+  }
+
+.user-description {
+    padding: 2px;
+    font-family: system-ui;
+    font-weight: 600;
+}
+
+.darkMode_true {
+    color: #b3b6bb;
+}
+
+.tags {
+    height: fit-content;
+    background-color: #04c2c9;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    color: white;
+    font-family: system-ui;
+}
+
+@media only screen and (max-device-width: 480px) {
+    .skills-column{
+        flex-wrap: wrap;
+    }
+
+    .row {
+        width: 100%;
+    }
+}
