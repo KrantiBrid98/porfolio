@@ -37,8 +37,13 @@
     backface-visibility: hidden;
   }
   
-  .flip-card-front {
-    background-color: #45474a;
+  .flip-card-front-darkMode_true {
+    background-color: #121621;
+    color: black;
+  }
+  
+  .flip-card-front-darkMode_false {
+    background-color: #cad0d9;
     color: black;
   }
   
@@ -88,24 +93,40 @@
     border: 2px solid #d61c69!important ;
   }
 
-  .project-name {
+  .project-name-darkMode_false {
     padding: 15px;
     font-family: system-ui;
     font-size: 20px;
     font-weight: 600;
-    color: white;
+    color: #121621;
   }
 
-  .skills {
-    color: #eae7e3;
+  .project-name-darkMode_true {
+    padding: 15px;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 600;
+    color: #c7c9cb;
+  }
+
+  .skills-darkMode_false {
+    color: #434444;
     font-family: system-ui;
     padding: 20px;
+    font-weight: 500;
+  }
+
+  .skills-darkMode_true {
+    color: #57585a;
+    font-family: system-ui;
+    padding: 20px;
+    font-weight: 500;
   }
 
   .description {
     padding: 10px !important;
     font-family: system-ui !important;
-    font-weight: 400 !important;
+    font-weight: 500 !important;
     color: white !important;
   }
 

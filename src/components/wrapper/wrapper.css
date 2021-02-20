@@ -25,10 +25,12 @@ h3.darkMode_false{
 
 .sub-heading-color-darkMode_true {
     color: #929495 !important;
+    font-weight: 500;
 }
 
 .sub-heading-color-darkMode_false{
     color: #434444;
+    font-weight: 500;
 }
 
 h6 {
@@ -51,6 +53,7 @@ a {
     text-decoration: none;
     font-family: system-ui;
     font-size: 15px;
+    font-weight: 600 !important;
 }
 
 a.darkMode_false {
