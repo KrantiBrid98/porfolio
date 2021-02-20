@@ -140,8 +140,8 @@ p {
 
 
 @media only screen and (max-device-width: 480px) {
-    .home-content {
-        padding: 0px !important;
+    .home-content-darkMode_false, .home-content-darkMode_true {
+        padding: 90px !important;
     }
     .block-content {
         width: 100%;
