@@ -2,22 +2,32 @@
     "skills": {
         "description":"I'm a Front-End Developer in Mumbai, India. I have serious passion for building web applications.",
        "skillset": [
-            "HTML5", "CSS3", "Javascript", "ES6","Typescript", "ReactJs", "Redux", "JQuery", "PIXIjs", "Lodash", "MySQL", "ExpressJs", "NestJs", "NodeJS", "Graphql", "Cypress","SVN", "Git", "JIRA", "Confluence", "Windows", "MacOS", "Linux-ubuntu"
+            "HTML5", "CSS3", "Javascript", "ES6","Typescript", "ReactJs", "Redux", "JQuery", "PIXIjs", "Lodash", "MySQL", "PostgreSQL", "MongoDB", "Sequelize", "ExpressJs", "NodeJS", "Graphql", "Cypress","SVN", "Git", "JIRA", "Confluence", "Windows", "MacOS", "Linux-ubuntu"
         ]
     },
-    "experience": [
+    "experience": [       
+        {
+            "companyName":"Azul Arc india interactive pvt ltd",
+            "timespan":"Software Engineer",
+            "skills": [
+                "Worked extensively as a full-stack developer. Single handedly created a completed social media components, worked on the Payment module using Stripe.",
+                "Worked on various Databases like PostgreSQL, MongoDB and ORMs like Sequelize. Successfully wrote optimized SQL queries for handling large data.",
+                "Created APIs using NodeJS, ExpressJS and also integrated them with the frontend using AXIOS.",
+                "Interacted with a team of 8-10 members and also practiced Agile methodology. Direct interaction with the clients to understand requirements and also to give demos about the developed product"
+            ]
+        },
+         {
+            "companyName":"Synergy Technology Services Pvt Ltd",
+            "timespan":"Sr Software Engineer",
+            "skills": [
+                "Developed robust, clean and maintainable code in challenging time constraints also collaborated with QA and peer developers to ensure efficient bug free delivery to clients."
+            ]
+        },
         {
             "companyName":"Mitr Learning and Media Pvt. Ltd.",
             "timespan":"Software Engineer Band I (Jan 2018 - May 2020)",
             "skills": [
                 "Developed gizmos and applications for students (E-Learning domain) along with tests to ensure its maintainability.", "Worked with a US based client team with one to one interaction following agile methodology."
-            ]
-        },
-        {
-            "companyName":"Synergy Technology Services Pvt Ltd",
-            "timespan":"Software Engineer (May 2020 - present)",
-            "skills": [
-                "Developed robust, clean and maintainable code in challenging time constraints also collaborated with QA and peer developers to ensure efficient bug free delivery to clients."
             ]
         }
     ],
@@ -41,6 +51,20 @@
         }
     ],
     "projects": [
+        {   
+            "tag": "react",
+            "name":"Divvy Worx",
+            "skills":"Reactjs v16, ES6 Javascript, Hooks, PostgreSQL, Sequelize, Stripe, SQL, NodeJS ",
+            "description":"Single handedly created a completed social media module that involved functionalities like adding post, comments and even reactions to the post (Just like LinkedIn) along with the notification feature. Worked on the Payment module using Stripe. Database was managed using PostgreSQL and Sequelize as ORM.",
+            "link": "https://divvyworx.com/"
+        },
+        {   
+            "tag": "node",
+            "name":"Divvy Worx",
+            "skills":"Reactjs v16, ES6 Javascript, NodeJS, Hooks, PostgreSQL, Sequelize, Stripe, SQL ",
+            "description":"Single handedly created a completed social media module that involved functionalities like adding post, comments and even reactions to the post (Just like LinkedIn) along with the notification feature. Created APIS using ExpressJS, used PostgreSQL as DB and Sequelize as ORM.",
+            "link": "https://divvyworx.com/"
+        },
         {   
             "tag": "react",
             "name":"The Orchard",
