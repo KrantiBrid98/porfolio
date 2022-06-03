@@ -5,10 +5,18 @@
             "HTML5", "CSS3", "Javascript", "ES6","Typescript", "ReactJs", "Redux", "JQuery", "PIXIjs", "Lodash", "MySQL", "PostgreSQL", "MongoDB", "Sequelize", "ExpressJs", "NodeJS", "Graphql", "Cypress","SVN", "Git", "JIRA", "Confluence", "Windows", "MacOS", "Linux-ubuntu"
         ]
     },
-    "experience": [       
+    "experience": [
+        {
+            "companyName":"Ernst & Young LLP",
+            "timespan":"Technology Consultant",
+            "skills": [
+                "Working as a lead team member managing and developing all the important functionalities of the client project",
+                "Working on an extensively data driven project, managing multiple APIs and developed the project from scratch",
+            ]
+        },       
         {
             "companyName":"Azul Arc india interactive pvt ltd",
-            "timespan":"Software Engineer",
+            "timespan":"Sr. Software Engineer",
             "skills": [
                 "Worked extensively as a full-stack developer. Single handedly created a completed social media components, worked on the Payment module using Stripe.",
                 "Worked on various Databases like PostgreSQL, MongoDB and ORMs like Sequelize. Successfully wrote optimized SQL queries for handling large data.",
