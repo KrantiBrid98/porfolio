@@ -17,19 +17,17 @@ const About = () => {
         <p className={`darkMode_${context}`}>
           I am a FullStack developer with
           <b className={`darkMode_${context}`} > 
-             ~3 yrs of extensive experience in Javascript and 2+ yrs of
+             6+ yrs of extensive experience in Javascript and 5+ yrs of
             experience in React
           </b>
-           and sound knowledge of <b className={`darkMode_${context}`} >nodeJs, expressJs, nestJs and much more</b>.
-          I have a good exposure to the <b className={`darkMode_${context}`} >e-learning domain</b> as well.
+           and sound knowledge of <b className={`darkMode_${context}`} >nodeJs, expressJs and much more</b>.
+          I have a good exposure to the <b className={`darkMode_${context}`} >e-learning & Pharma domain</b> as well.
         </p>
         <p className={`darkMode_${context}`}>
           <b className={`darkMode_${context}`} >I have many interests besides coding.</b> I like to{' '}
           <b className={`darkMode_${context}`} >write articles about tech stuff </b>that I learn and which I find
-          worth sharing with other on <a className='lin' href='https://krantibrid.medium.com/' target="_blank" rel="noopener" >medium</a>. Also
-          recently as a hobby, <b className={`darkMode_${context}`} >I started a youtube channel</b> where I try to
-          explain javascript concepts <a className='lin' href='https://www.youtube.com/channel/UCIYK9YPSWWjB5f-N4PN7z0g' target="_blank" rel="noopener" >(Girl who codes).
-          </a>
+          worth sharing with other on <a className='lin' href='https://krantibrid.medium.com/' target="_blank" rel="noopener" >medium</a>.
+          <p  className={`darkMode_${context}`}>Apart from that, I love canvas painting and growing vegetables at home. Both have taught me the value of patience and the satisfaction that comes from seeing something thrive through dedication.</p>
         </p>
       </div>
     </div>
