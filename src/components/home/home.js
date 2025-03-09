@@ -17,13 +17,13 @@ const Home = () => {
     />
     <div className={`home-content-darkMode_${context}`} id="home-section">
       <div className="home-script">
-        Hello, I am{' '}
+        Hello, I am{' '} <br/>
         <span style={{ color: `#e31b6d`, fontWeight: `bold` }}>
           Kranti Brid
           </span>
           .
         </div>
-      <div className="home-script">I am a Full-Stack developer</div>
+      <div className="home-script">I am a<br/> Full-Stack <br/>developer</div>
       <button className={`darkMode_${context}`}>
         <a className={`darkMode_${context}`} href="#skills-section">
           View my Work <span className="arrow">➡</span>
