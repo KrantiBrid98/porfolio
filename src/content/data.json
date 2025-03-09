@@ -2,7 +2,7 @@
     "skills": {
         "description":"I'm a Front-End Developer in Mumbai, India. I have serious passion for building web applications.",
        "skillset": [
-            "HTML5", "CSS3", "Javascript", "ES6","Typescript", "ReactJs", "Redux", "JQuery", "PIXIjs", "Lodash", "MySQL", "PostgreSQL", "MongoDB", "Sequelize", "ExpressJs", "NodeJS", "Graphql", "Cypress","SVN", "Git", "JIRA", "Confluence", "Windows", "MacOS", "Linux-ubuntu"
+            "HTML5", "CSS3", "Javascript", "ES6","Typescript", "ReactJs", "Redux", "JQuery", "AngularJS", "Lodash", "MySQL", "PostgreSQL", "MongoDB", "Sequelize", "ExpressJs", "NodeJS", "Graphql", "Cypress","SVN", "Git", "JIRA", "Confluence", "Windows", "MacOS", "Linux-ubuntu"
         ]
     },
     "experience": [
@@ -11,7 +11,7 @@
             "timespan":"Technology Consultant",
             "skills": [
                 "Working as a lead team member managing and developing all the important functionalities of the client project",
-                "Working on an extensively data driven project, managing multiple APIs and developed the project from scratch",
+                "Working on an extensively data driven project, managing multiple APIs and developed the project from scratch"
             ]
         },       
         {
@@ -67,10 +67,10 @@
             "link": "https://divvyworx.com/"
         },
         {   
-            "tag": "node",
-            "name":"Divvy Worx",
-            "skills":"Reactjs v16, ES6 Javascript, NodeJS, Hooks, PostgreSQL, Sequelize, Stripe, SQL ",
-            "description":"Single handedly created a completed social media module that involved functionalities like adding post, comments and even reactions to the post (Just like LinkedIn) along with the notification feature. Created APIS using ExpressJS, used PostgreSQL as DB and Sequelize as ORM.",
+            "tag": "Angular",
+            "name":"Torrent Pharma",
+            "skills":"AngularJS, ES6 Javascript, TypeScript",
+            "description":"Worked as a lead and managed a team of 6, developed an application in pharma domain which aid a pharma company to carry out all the requisite procedure, tests required before introducing any drug out in the market. Developed this app as per procedural standards for different modules like EU, UK, USA, India etc",
             "link": "https://divvyworx.com/"
         },
         {   
@@ -85,17 +85,17 @@
             "skills":"Reactjs, ES6 Javascript, Lodash, TypeScript, CSS",
             "description":"Building entire react components from scratch which provided the user a detailed outlook and statistics about sales, production, events etc of all the famous liquor brands available in the market."
         },
+        {
+            "tag": "react",
+            "name":"Minerals & Mining",
+            "skills":"React, JavaScript, NodeJS, CSS",
+            "description":"Created high level E-learning activity screens for students in canvas using JS which included various mathematical modules and complex calculations on the basis of which the activity was controlled."
+        },
         {   
             "tag": "react",
             "name":"Curriculum Associates (iFabric)",
             "skills":"Reactjs, ES6 Javascript, Lodash, Automation frameworks",
             "description":"Developing lessons for E-learning and solved renderer and framework related issues along with using Nighwatch with Browserstack for automation testing. Practicing Agile methodology. Github is used  for version control and management."
-        },
-        {
-            "tag": "js",
-            "name":"Klett",
-            "skills":"JavaScript, NodeJS, CSS",
-            "description":"Created high level E-learning activity screens for students in canvas using JS which included various mathematical modules and complex calculations on the basis of which the activity was controlled."
         },
         {
             "tag": "js",
