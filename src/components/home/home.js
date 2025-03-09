@@ -23,7 +23,7 @@ const Home = () => {
           </span>
           .
         </div>
-      <div className="home-script">I am a front-end developer</div>
+      <div className="home-script">I am a Full-Stack developer</div>
       <button className={`darkMode_${context}`}>
         <a className={`darkMode_${context}`} href="#skills-section">
           View my Work <span className="arrow">➡</span>
