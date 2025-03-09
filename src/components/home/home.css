@@ -25,6 +25,7 @@
     color: #1b242f;
     padding: 182px;
     text-align: center;
+    height: 100vh;
     font-family: monospace;
     border-bottom: 3px solid #04c2c9;
 }
