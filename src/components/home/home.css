@@ -38,7 +38,7 @@ button {
     background-color: transparent;
     height: 50px;
     width: 170px;
-    margin: 33px;
+    margin-top: 33px;
     cursor: pointer;
     transition: 0.3s;
     /* transition: transform .8s ease-in-out; */
