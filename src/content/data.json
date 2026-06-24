@@ -8,9 +8,11 @@
     "experience": [
         {
             "companyName":"Ernst & Young LLP",
-            "timespan":"Technology Consultant",
+            "timespan":"Sr. Technology Consultant",
             "skills": [
-                "Working as a lead team member managing and developing all the important functionalities of the client project",
+                "Working as a Tech lead managing and developing all the important functionalities of the client project",
+                "Certified Scrum Master",
+                "Proven expertise in frontend architecture, REST APIs, GraphQL, microservices, and cloud infrastructure (AWS, Azure). Track record of improving application performance by 25-30% and shipping revenue-generating products across Procurement, healthcare, and analytics domains.",
                 "Working on an extensively data driven project, managing multiple APIs and developed the project from scratch"
             ]
         },       
@@ -61,6 +63,13 @@
     "projects": [
         {   
             "tag": "react",
+            "name":"Automobile Domain",
+            "skills":"Reactjs v18, Redis, Hooks, PostgreSQL, NodeJS, AWS S3, AWS EC2 ",
+            "description":"Architected and delivered a scalable social media analytics platform using React.js, Node.js, AWS (S3, EC2, Redshift), and Redis, serving enterprise clients.",
+            "link": ""
+        },
+        {   
+            "tag": "react",
             "name":"Divvy Worx",
             "skills":"Reactjs v16, ES6 Javascript, Hooks, PostgreSQL, Sequelize, Stripe, SQL, NodeJS ",
             "description":"Single handedly created a completed social media module that involved functionalities like adding post, comments and even reactions to the post (Just like LinkedIn) along with the notification feature. Worked on the Payment module using Stripe. Database was managed using PostgreSQL and Sequelize as ORM.",
@@ -68,10 +77,10 @@
         },
         {   
             "tag": "Angular",
-            "name":"Torrent Pharma",
+            "name":"Pharma Domain",
             "skills":"AngularJS, ES6 Javascript, TypeScript",
             "description":"Worked as a lead and managed a team of 6, developed an application in pharma domain which aid a pharma company to carry out all the requisite procedure, tests required before introducing any drug out in the market. Developed this app as per procedural standards for different modules like EU, UK, USA, India etc",
-            "link": "https://divvyworx.com/"
+            "link": ""
         },
         {   
             "tag": "react",
