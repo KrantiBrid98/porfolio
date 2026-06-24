@@ -26,7 +26,7 @@ const About = () => {
         <p className={`darkMode_${context}`}>
           <b className={`darkMode_${context}`} >I have many interests besides coding.</b> I like to{' '}
           <b className={`darkMode_${context}`} >write articles about tech stuff </b>that I learn and which I find
-          worth sharing with other on <a className='lin' href='https://krantibrid.medium.com/' target="_blank" rel="noopener" >medium</a>.
+          worth sharing with other on <a className='lin' href='https://krantibrid.medium.com/' target="_blank" rel="noopener noreferrer" >medium</a>.
           <p  className={`darkMode_${context}`}>Apart from that, I love canvas painting and growing vegetables at home. Both have taught me the value of patience and the satisfaction that comes from seeing something thrive through dedication.</p>
         </p>
       </div>
