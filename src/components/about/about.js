@@ -15,13 +15,13 @@ const About = () => {
           makes user`s lives easier.
         </p>
         <p className={`darkMode_${context}`}>
-          I am a FullStack developer with
+          I am a Senior FullStack developer with
           <b className={`darkMode_${context}`} > 
-             6+ yrs of extensive experience in Javascript and 5+ yrs of
-            experience in React
+              8+ years of experience ,  
           </b>
-           and sound knowledge of <b className={`darkMode_${context}`} >nodeJs, expressJs and much more</b>.
-          I have a good exposure to the <b className={`darkMode_${context}`} >e-learning & Pharma domain</b> as well.
+           architecting and delivering scalable high-performance web 
+applications using<b className={`darkMode_${context}`} >React.js, Node.js, Python and much more</b>.
+          I have a good exposure to the <b className={`darkMode_${context}`} >e-learning, automobile & Pharma domain</b> as well.
         </p>
         <p className={`darkMode_${context}`}>
           <b className={`darkMode_${context}`} >I have many interests besides coding.</b> I like to{' '}

@@ -1,8 +1,8 @@
 {
     "skills": {
-        "description":"I'm a Front-End Developer in Mumbai, India. I have serious passion for building web applications.",
+        "description":"I'm a FullStack Developer in Mumbai, India. I have serious passion for building web applications.",
        "skillset": [
-            "HTML5", "CSS3", "Javascript", "ES6","Typescript", "ReactJs", "Redux", "JQuery", "AngularJS", "Lodash", "MySQL", "PostgreSQL", "MongoDB", "Sequelize", "ExpressJs", "NodeJS", "Graphql", "Cypress","SVN", "Git", "JIRA", "Confluence", "Windows", "MacOS", "Linux-ubuntu"
+            "HTML5", "CSS3", "Javascript", "ES6","Typescript", "ReactJs", "Redux", "JQuery", "AngularJS", "Lodash", "MySQL", "PostgreSQL", "MongoDB", "Sequelize", "ExpressJs", "NodeJS", "Graphql", "AWS", "Cypress","SVN", "Git", "JIRA", "Confluence", "Windows", "MacOS", "Linux-ubuntu"
         ]
     },
     "experience": [
